@@ -1,0 +1,7 @@
+.python-version
+lib/
+lib64
+firmware/*.bin
+bin/
+__pycache__/
+pyvenv.cfg
